@@ -1,18 +1,36 @@
-Hello, This project is called The Scot Bot! The purpose of this project is to allow students to ask questions about any class with any professor and have a relatively accurate response. Although, This project was made for Monmouth College it can be adapted and implemented for any College/University.
+# The Scot Bot: Your Academic Assistant
 
-Step 1: Setup
-    -Go through and set all the openai API keys to your personal openai API keys
-    -Run the setup file to install necassary libraries
+## Introduction
 
-Step 2: Dataset Creation
-    - Change all the names of the syllabi to follow the naming convention "Department,Class Number, Class Name, Class Year, Professor.docx"
-    - Run the Simple Dataset Creation Python script
+Welcome to "The Scot Bot", an innovative project designed to assist students with academic inquiries. Originally developed for Monmouth College, this versatile bot provides accurate answers to questions about classes and professors. Its adaptable framework allows it to be implemented in any college or university setting.
 
-Step 3: Adapt GUI
-    - Change the name of the bot to whatever you want
-    - Change the Logo to your schools logo
+## Features
 
-Step 4: Ask away!
+- **Personalized Academic Assistance:** Ask questions about any class or professor at Monmouth College for precise, informed responses.
+- **Flexible Adaptation:** Easily customizable for any educational institution.
+- **User-Friendly Interface:** Simple and intuitive design for effortless interaction.
 
-This is my senior capstone project for Monmouth College.
-If you use this all I ask is for some credit to be given.
+## Getting Started
+
+### Step 1: Setup
+1. **API Key Configuration:** Replace all OpenAI API keys with your personal keys.
+2. **Library Installation:** Run the setup file to install necessary libraries.
+
+### Step 2: Dataset Creation
+1. **Naming Convention:** Rename syllabi files to "Department, Class Number, Class Name, Class Year, Professor.docx".
+2. **Dataset Script:** Execute the Simple Dataset Creation Python script.
+
+### Step 3: Adapt GUI
+1. **Bot Customization:** Rename the bot as per your preference.
+2. **Branding:** Update the logo to your school's emblem.
+
+### Step 4: Interaction
+- Start asking questions and enjoy the user-friendly academic assistance!
+
+## Usage and Implementation
+
+The Scot Bot is designed to be a dynamic and adaptable tool. Whether you're a student seeking quick answers about your courses or an administrator looking to provide additional resources, this bot is the perfect solution.
+
+## Acknowledgements and Credits
+
+This project is my senior capstone project for Monmouth College. If you choose to use or adapt The Scot Bot, I kindly request that appropriate credit be given for the original development.
